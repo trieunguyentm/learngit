@@ -1,4 +1,3 @@
 123456
 second
 temp
-code nham
